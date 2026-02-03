@@ -1,8 +1,0 @@
-a) Agile Development
-  Pros: Fast pasted, allowed greater collaboration because everything is broken into smaller groups
-  Cons: Harder to work in large groups because of the needed coordination and quick turn arounds, the structure allows for the ability to go back and fix things each time to make them better but then you don't really have an end point
-b) Scrum Master vs. Project Owner
-  Scrum Master: Is not the project owner but they often work together. The scrum master is someone who's focus is on the scrum and making sure the rest of the team also follows. Help people manage themself and get this things done without them needed to be perfect.
-  Project Owner: The project owner is incharge of the entire project and its end goal. They need to make sure everything stays on track over all.
-c)
-d)
