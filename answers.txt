@@ -8,3 +8,8 @@ c) Types of Sprint Meetings:
     Sprint planning: Make sure everyone knows whats going on, everyone decides what they want to do
     Daily Scrum: Identify issues, ask for help when needed
     Sprint Review: Present completed work and ask for feedback, discuss issues going into next week
+d) Issue types:
+    Epics: A larger feature containing multiple parts. Needs many people and stories to complete it.
+    Stories: A singular larger task one person can take on over the week. Instead of multiple people with a large amount of parts.
+    Bug: A tiny issue that needs to be fixed as soon as possible before more progress can be made
+    Task: One singular quick task. Less than a story but larger and not as glaring as a bug.
