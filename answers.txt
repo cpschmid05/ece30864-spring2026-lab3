@@ -4,3 +4,7 @@ a) Agile Development
 b) Scrum Master vs. Project Owner
   Scrum Master: Is not the project owner but they often work together. The scrum master is someone who's focus is on the scrum and making sure the rest of the team also follows. Help people manage themself and get this things done without them needed to be perfect.
   Project Owner: The project owner is incharge of the entire project and its end goal. They need to make sure everything stays on track over all.
+c) Types of Sprint Meetings:
+    Sprint planning: Make sure everyone knows whats going on, everyone decides what they want to do
+    Daily Scrum: Identify issues, ask for help when needed
+    Sprint Review: Present completed work and ask for feedback, discuss issues going into next week
